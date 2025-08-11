@@ -27,7 +27,7 @@
             "displayName": "Build Indigo DEBUG (Linux All Targets)",
             "description": "Build all targets",
             "targets": [
-                "all"
+                "indigo-cpp-unit-tests"
             ]
         }
     ]
