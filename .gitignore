@@ -78,7 +78,6 @@ cmake-build-release
 api/c/indigo/src/indigo_version.h
 .jython_cache/
 *$py.class
-.vscode/
 .flattened-pom.xml
 api/java/**/target/
 bingo/tests/bingo-tests.log
