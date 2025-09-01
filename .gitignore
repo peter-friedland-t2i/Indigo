@@ -1,5 +1,7 @@
 # Visual Studio Code
-.vscode
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
 
 # Rider
 .idea
@@ -81,7 +83,6 @@ cmake-build-release
 api/c/indigo/src/indigo_version.h
 .jython_cache/
 *$py.class
-.vscode/
 .flattened-pom.xml
 api/java/**/target/
 bingo/tests/bingo-tests.log
