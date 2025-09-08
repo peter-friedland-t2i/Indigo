@@ -12,6 +12,7 @@
             "generator": "Ninja",
             "binaryDir": "${sourceDir}/build",
             "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
                 "BUILD_INDIGO": "ON",
                 "BUILD_INDIGO_WRAPPERS": "ON",
                 "BUILD_INDIGO_UTILS": "ON"
